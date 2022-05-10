@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   </P>
 
 </div>
-<footer>
+<footer align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer">
 </footer>
 
