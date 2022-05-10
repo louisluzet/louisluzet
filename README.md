@@ -30,6 +30,6 @@ Here are some ideas to get you started:
        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
     </P>
   </div>
-  <footer><img src=""https://capsule-render.vercel.app/api?type=waving&reversal=true&color=auto&height=200&section=header"></footer>
+  <footer><img src="https://capsule-render.vercel.app/api?type=waving&reversal=true&color=auto&height=200&section=header"></footer>
 </div>
 
