@@ -18,7 +18,7 @@ Here are some ideas to get you started:
  </div>
  <div align="center">
     <h2>ABOUT ME<h2>
-      --👩‍💻Frontend Developer
+      <p>👩‍💻Frontend Developer<p>
    
   </div>
   <div align="center">
