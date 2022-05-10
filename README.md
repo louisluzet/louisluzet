@@ -16,9 +16,13 @@ Here are some ideas to get you started:
 <div align="center">
   <header><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEO%20JI%20HO&fontColor=495057&fontSize=60&animation=fadeIn"></header>
  </div>
- ## 💡SKILLS ##
- <hr>
+ <div align="center">
+    <h2>ABOUT ME<h2>
+      --👩‍💻Frontend Developer
+   
+  </div>
   <div align="center">
+    <h2>💡SKILLS<h2>
     <P>
        <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
       <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
