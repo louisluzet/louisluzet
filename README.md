@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <header><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEO%20JI%20HO&fontSize=90"></header>
+  <header><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEO%20JI%20HO&fontSize=60"></header>
 <div>
   <h5>💡SKILLS</h5>
   <P>
