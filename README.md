@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 
 <div>
   <h5 align="center">💡SKILLS</h5>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  <P align="center">
+     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+  
+  </P>
 
 </div>
