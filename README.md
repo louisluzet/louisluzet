@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
+  <header><img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&text=%20JisuPark%20%20&height=200&fontSize=100"></header>
   <h3>🖥️SEO JI HO</h3>
 
 
@@ -35,8 +36,8 @@ Here are some ideas to get you started:
   </P>
 
 </div>
-<footer>
+<!-- <footer>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer">
-</footer>
+</footer> -->
 </div>
 
