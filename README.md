@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <header><img src="https://capsule-render.vercel.app/api?type=soft&color=F8DC75&text=%20SEOJIHO%20%20&height=150&fontSize=70"></header>
+  <header><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&text=%20SEOJIHO%20%20&height=150&fontSize=70"></header>
 
 
 
