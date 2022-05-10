@@ -13,29 +13,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h3 align="center">🖥️SEO JI HO</h3>
+<div>
+  <h3>🖥️SEO JI HO</h3>
 
 
 
 <div>
-  <h5 align="center">💡SKILLS</h5>
+  <h5>💡SKILLS</h5>
   <br>
-  <P align="center">
+  <P>
      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
      <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
   </P>
-  <P align="center">
+  <P>
      <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/>
      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   </P>
 
 </div>
-<footer align="center">
+<footer>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer">
 </footer>
+</div>
 
