@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <header><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=SEO%20JI%20HO&fontColor=495057&fontSize=60&animation=fadeIn"></header>
-  <h2>ABOUT ME<h2>
-      <p>-👩‍💻Frontend Developer</p>
+  <p>
+    <h2>ABOUT ME</h2>
+    -👩‍💻Frontend Developer
+  </p>
  </div>
   <div align="center">
     <h2>💡SKILLS</h2>
