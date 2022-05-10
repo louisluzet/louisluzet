@@ -14,13 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-  <header><img src="https://capsule-render.vercel.app/api?type=waving&color=auto&text=%20SEOJIHO%20%20&height=150&fontSize=70"></header>
-
-
-
+  <header><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=SEO%10JI%10HO&fontSize=90"></header>
 <div>
   <h5>💡SKILLS</h5>
-  <br>
   <P>
      <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
      <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
@@ -35,8 +31,5 @@ Here are some ideas to get you started:
   </P>
 
 </div>
-<!-- <footer>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer">
-</footer> -->
 </div>
 
