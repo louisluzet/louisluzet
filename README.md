@@ -1,5 +1,6 @@
 
 <h1>SEOJIHO</h1>
+- Frondend Developer👩‍💻
 
 <h3>SKILLS<h3>
 <P>
